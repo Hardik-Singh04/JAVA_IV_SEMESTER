@@ -32,8 +32,6 @@ return 4.0;
 class Sbi extends Bank
 {
 double getROI()
-Name : Hardik Singh Roll Number : 21 Section : A
-- 32 -
 {
 return 4.5;
 }
