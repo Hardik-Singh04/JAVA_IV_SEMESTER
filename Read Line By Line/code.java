@@ -1,0 +1,2 @@
+/*Write a program that reads from a text file line by line and 
+writes on console.*/
