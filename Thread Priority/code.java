@@ -1,0 +1,2 @@
+/* Write a program to set and get the name of threads also set and 
+get the priority of threads.*/
