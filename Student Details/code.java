@@ -33,8 +33,6 @@ int Id;
 Scanner in=new Scanner(System.in);
 System.out.print("Enter the Student Id : ");
 Id=in.nextInt();
-Name : Hardik Singh Roll Number : 21 Section : A
-- 2 -
 in.nextLine();
 System.out.print("Enter the University name : ");
 University=in.nextLine();
